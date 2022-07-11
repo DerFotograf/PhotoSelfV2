@@ -1,0 +1,6 @@
+{
+    "token": "tutoken",
+    "prefix": "-",
+    "delete_after_execute": "yes",
+    "afk_message": "Afk message"
+}
