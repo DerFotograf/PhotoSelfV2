@@ -33,5 +33,3 @@ PhotoSelf V2, he mejorado los comandos y añadido uno, también es más agradabl
 
 
 Remix By Fotograf.
-
-Cc: https://github.com/robert169/discord.py-selfbot
